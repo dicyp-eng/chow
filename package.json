@@ -1,4 +1,19 @@
 {
+  "name": "chow",
+  "version": "1.0.0",
+  "description": "Projeto de treinamento, fazendo uma alteração de carreira para virar programador.",
+  "homepage": "https://github.com/dicyp-eng/chow#readme",
+  "bugs": {
+    "url": "https://github.com/dicyp-eng/chow/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dicyp-eng/chow.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev"
   },
