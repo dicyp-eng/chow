@@ -1,7 +1,1 @@
-export default function Home() {
-  return (
-    <div>
-      <h1>Testando o deploy no Vercel</h1>
-    </div>
-  );
-}
+export default function Home() { return <h1>Deploy Corrigido!</h1>; }
