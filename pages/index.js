@@ -1,5 +1,7 @@
-function Home() {
-    return <h1>refazendo teste</h1>
+export default function Home() {
+  return (
+    <div>
+      <h1>Olá, Vercel!</h1>
+    </div>
+  );
 }
-
-export default Home;
