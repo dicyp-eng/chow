@@ -1,1 +1,3 @@
-export default function Home() { return <h1>Deploy Corrigido!</h1>; }
+export default function Home() {
+  return <h1>Finalmente funcionou!</h1>;
+}
